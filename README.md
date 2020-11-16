@@ -4,3 +4,4 @@
 2. https://github.com/Shivampanwar/Bert-text-classification/blob/master/bert_language_model_with_sequence_classification.ipynb
 3. https://github.com/aniruddhachoudhury/BERT-Tutorials/blob/master/Blog%202/BERT_Fine_Tuning_Sentence_Classification.ipynb
 4. https://www.kaggle.com/sharmilaupadhyaya/20newsgroup-classification-using-keras-bert-in-gpu
+5. https://medium.com/@prakashakshay90/fine-tuning-bert-model-using-pytorch-f34148d58a37
