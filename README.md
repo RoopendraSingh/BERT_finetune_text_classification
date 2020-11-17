@@ -6,3 +6,4 @@
 4. https://www.kaggle.com/sharmilaupadhyaya/20newsgroup-classification-using-keras-bert-in-gpu
 5. https://medium.com/@prakashakshay90/fine-tuning-bert-model-using-pytorch-f34148d58a37
 6. https://medium.com/@aniruddha.choudhury94/part-2-bert-fine-tuning-tutorial-with-pytorch-for-text-classification-on-the-corpus-of-linguistic-18057ce330e1
+7. https://jalammar.github.io/illustrated-bert/#:~:text=BERT%20is%20a%20model%20that%20broke%20several%20records,model%20that%20were%20already%20pre-trained%20on%20massive%20datasets.
